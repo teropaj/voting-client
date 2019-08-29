@@ -9,7 +9,7 @@ export default class Home extends Component {
     
     componentDidMount(){
     
-    const url= 'screams'
+    const url= '/getUsers'
 
     axios.get(url)
         .then(res => {

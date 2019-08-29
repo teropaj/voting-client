@@ -33,5 +33,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://us-central1-test-7d040.cloudfunctions.net/app"
+  "proxy": "http://localhost:5000/voting-e0298/us-central1/app"
 }
