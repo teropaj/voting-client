@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@types/react-router-dom": "^4.3.4",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "create-react-redux-app-structure": "^4.6.0",
     "global": "^4.4.0",
     "react": "^16.9.0",
